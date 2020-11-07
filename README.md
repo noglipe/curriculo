@@ -38,13 +38,13 @@ Meu nome é Filipe Nogueira de Souza, sou apaixonado por desenvolvimento e com a
 ## Formação
 * Análise e Desenvolvimento de Sistemas (ESTÁCIO) - Incompleto
 
-##Certificados
+## Certificados
 
 -------------------------------------
-####Certificados
+#### Certificados
 
-#####[Programação Funciona com Elixir](https://www.udemy.com/course/programacao-funcional-com-elixir)
+##### [Programação Funciona com Elixir](https://www.udemy.com/course/programacao-funcional-com-elixir)
 ![Certificado](img/certificado.jpg)
 
-##### Erro?
+#### Erro?
 Achou algum erro ou faltou alguma informação. Ajude-me a melhorar enviando um e-mail para nog.lipe@gmail.com
