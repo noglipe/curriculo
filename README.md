@@ -23,6 +23,7 @@ Meu nome é Filipe Nogueira de Souza, sou apaixonado por desenvolvimento e com a
 * HTML
 * CSS
 * BOOTSTRAP
+* FLET (APRENDENDO)
 
 ### Frameworks
 * Django
@@ -47,11 +48,11 @@ Meu nome é Filipe Nogueira de Souza, sou apaixonado por desenvolvimento e com a
 ![Certificado](img/certificado.jpg)
 
 ##### [ Crie APIs REST com Python e Django REST Framework](https://www.udemy.com/certificate/UC-150a3229-5f91-468a-9777-3376ec889dd3/)
-![Certificado](img/certificado.jpg)
+![Certificado](img/Api_Django.jpg)
 
 
 ##### [ Crie APIs REST com Python e Flask]((https://www.udemy.com/certificate/UC-c87258a2-5adf-4458-95b0-639245b91c41/)
-![Certificado](img/certificado.jpg)
+![Certificado](img/Api_Flask.jpg)
 
 
 #### Erro?
