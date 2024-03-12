@@ -51,7 +51,7 @@ Meu nome é Filipe Nogueira de Souza, sou apaixonado por desenvolvimento e com a
 ![Certificado](img/Api_Django.jpg)
 
 
-##### [ Crie APIs REST com Python e Flask]((https://www.udemy.com/certificate/UC-c87258a2-5adf-4458-95b0-639245b91c41/)
+##### [ Crie APIs REST com Python e Flask](https://www.udemy.com/certificate/UC-c87258a2-5adf-4458-95b0-639245b91c41/)
 ![Certificado](img/Api_Flask.jpg)
 
 
