@@ -1,33 +1,29 @@
 # Filipe Nogueira 
-
-Desenvolvedor Junior - Em busca de uma oportunidade 
+Desenvolvedor FullStack - Python / React
 
 :house:    Vila Velha/Es <br>
 :iphone:   (27) 99792 - 5394 <br>
 :envelope:  nog.lipe@gmail.com
 [Linkedin](https://www.linkedin.com/in/filipe-nogueira-souza/)
 
-Meu nome é Filipe Nogueira de Souza, sou apaixonado por desenvolvimento e com a possibilidade que a tecnologia nos traz de criar soluções para os diversos tipos de problemas. 
+Meu nome é Filipe Nogueira. Desenvolvi meu interesse por programação enquanto trabalhava em funções administrativas nas empresas anteriores. Ao longo desse tempo, passei a utilizar programação para automatizar processos, otimizar fluxos e contabilizar dados, sempre com foco em praticidade e objetividade. Esse interesse evoluiu, e atualmente, na empresa em que trabalho, mantenho um sistema financeiro interno desenvolvido integralmente por mim, com uma API em Python com front-end em React e utilizo o S3 da Amazom para armazenamento dos arquivos financeiros como notas fiscais, boletos e outros. Esse sistema, em uso há mais de um ano, é atualizado constantemente com novas funcionalidades e melhorias.
+
+Também desenvolvi ferramentas auxiliares, como geradores de relatórios e automações para monitoramento e extração de dados do sistema da empresa. Esses relatórios e análises são amplamente utilizados, tanto pelo setor jurídico em audiências quanto pela diretoria na tomada de decisões estratégicas.
+
 
 ## Conhecimento
 
 ### Linguagens
 * Python
-* Elixir
+* React
 
 ### Sistemas Operacionais
 * Linux
 * Windows
 
-### Front-end
-* HTML
-* CSS
-* BOOTSTRAP
-* FLET (APRENDENDO)
-
 ### Frameworks
 * Django
-* Flask
+* Next.JS
 
 ### CMS
 * JOOMLA
