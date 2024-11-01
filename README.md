@@ -16,6 +16,7 @@ Também desenvolvi ferramentas auxiliares, como geradores de relatórios e autom
 ### Linguagens
 * Python
 * React
+* TypeScript
 
 ### Sistemas Operacionais
 * Linux
